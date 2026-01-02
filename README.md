@@ -1,5 +1,5 @@
 # 💫 About Me:
-*👋Hi, I'm Dhanya.<br>*🎓"I'm currently in my second year of electronics  and communication engineering at SJEC.<br>*💡Passionate about Software Engineering and Embedded Systems.<br>*🔧Familiar with C++,HTML and MATHLAB.<br>*📬Reach me at dhanyapoojary85@gmail.com. 
+*👋Hi, I'm Dhanya.<br>*🎓"I'm currently in my third year of electronics  and communication engineering at SJEC.<br>*💡Passionate about Software Engineering and Embedded Systems.<br>*🔧Familiar with C++,HTML and MATHLAB.<br>*📬Reach me at dhanyapoojary85@gmail.com. 
 
 
 ## 🌐 Socials:
